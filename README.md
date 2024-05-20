@@ -36,6 +36,6 @@ Open the `index.html` file in your web browser to view the site locally.
 
 ## Contact
 
-If you have any questions or need further assistance, please reach out to us at [joseph.jds.smith@gmail.com](joseph.jds.smith@gmail.com?subject=Addictionover).
+If you have any questions or need further assistance, please reach out to us at [joseph.jds.smith@gmail.com](mailto:joseph.jds.smith@gmail.com?subject=Addictionover).
 
 Thank you for using Addictionover Search. Together, we can make a difference.
